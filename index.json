@@ -1,4 +1,21 @@
 [{
+    "name": "Rubiks",
+    "icon": "https://th.bing.com/th/id/R.1ca1fa90f9270aeeec64cfc22a9dc57f?rik=d9brDQt5LC0njg&riu=http%3a%2f%2fwww.clker.com%2fcliparts%2fb%2f7%2f3%2f5%2f1206564461883355622Rfc1394_Rubik_s_Cube.svg.hi.png&ehk=IrqqZfM%2fNsfPMraRap6IYVi%2fJhiASZG9C2nLiA8mq6o%3d&risl=&pid=ImgRaw&r=0",
+    "type": "game",
+    "data": {
+      "type": "IFrame",
+      "url": "https://rubiks.coderabl.studio",
+      "gallery": [
+        "https://th.bing.com/th/id/R.1ca1fa90f9270aeeec64cfc22a9dc57f?rik=d9brDQt5LC0njg&riu=http%3a%2f%2fwww.clker.com%2fcliparts%2fb%2f7%2f3%2f5%2f1206564461883355622Rfc1394_Rubik_s_Cube.svg.hi.png&ehk=IrqqZfM%2fNsfPMraRap6IYVi%2fJhiASZG9C2nLiA8mq6o%3d&risl=&pid=ImgRaw&r=0",
+        "https://res.cloudinary.com/tronic247/image/upload/v1635325215/sdfsdio/2_colfow.png",
+        "https://res.cloudinary.com/tronic247/image/upload/v1635325215/sdfsdio/3_rjtug8.png",
+        "https://res.cloudinary.com/tronic247/image/upload/v1635325215/sdfsdio/4_suhogq.png"
+      ],
+      "desc": "Dare To Try The Classic Puzzle Game?? By Coderable",
+      "feat": "In 3D"
+    }
+  },
+    {
     "name": "Visual Studio Code",
     "icon": "https://raw.githubusercontent.com/blueedgetechno/win11React/master/public/img/icon/code.png",
     "type": "app",
@@ -30,7 +47,7 @@
     }
   },
   {
-    "name": "windows96",
+    "name": "Windows96",
     "icon": "https://i.redd.it/kksrotgwyya61.png",
     "type": "app",
     "data": {
@@ -280,23 +297,6 @@
     }
   },
   {
-    "name": "Rubiks",
-    "icon": "https://th.bing.com/th/id/R.1ca1fa90f9270aeeec64cfc22a9dc57f?rik=d9brDQt5LC0njg&riu=http%3a%2f%2fwww.clker.com%2fcliparts%2fb%2f7%2f3%2f5%2f1206564461883355622Rfc1394_Rubik_s_Cube.svg.hi.png&ehk=IrqqZfM%2fNsfPMraRap6IYVi%2fJhiASZG9C2nLiA8mq6o%3d&risl=&pid=ImgRaw&r=0",
-    "type": "game",
-    "data": {
-      "type": "IFrame",
-      "url": "https://posandu.github.io/win11appthecube/",
-      "gallery": [
-        "https://th.bing.com/th/id/R.1ca1fa90f9270aeeec64cfc22a9dc57f?rik=d9brDQt5LC0njg&riu=http%3a%2f%2fwww.clker.com%2fcliparts%2fb%2f7%2f3%2f5%2f1206564461883355622Rfc1394_Rubik_s_Cube.svg.hi.png&ehk=IrqqZfM%2fNsfPMraRap6IYVi%2fJhiASZG9C2nLiA8mq6o%3d&risl=&pid=ImgRaw&r=0",
-        "https://res.cloudinary.com/tronic247/image/upload/v1635325215/sdfsdio/2_colfow.png",
-        "https://res.cloudinary.com/tronic247/image/upload/v1635325215/sdfsdio/3_rjtug8.png",
-        "https://res.cloudinary.com/tronic247/image/upload/v1635325215/sdfsdio/4_suhogq.png"
-      ],
-      "desc": "Dare To Try The Classic Puzzle Game??",
-      "feat": "By Coderable"
-    }
-  },
-  {
     "name": "Othello",
     "icon": "https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/org.gnome.Reversi.png",
     "type": "game",
@@ -309,8 +309,8 @@
         "https://www.johnadams.co.uk/wp-content/uploads/2016/07/Othello__0001_9690_Othello_Product_2.png",
         "https://www.coolmathgames.com/sites/default/files/styles/blog_node_image/public/2020-07/how%20to%20play%20reversi%20thumb.jpg"
       ],
-      "desc": "Othello(Reversi) is a strategy board game for two players, played on an 8×8 uncheckered board. It was invented in 1883.",
-      "feat": "By Coderable"
+      "desc": "Othello(Reversi) is a strategy board game for two players, played on an 8×8 uncheckered board. It was invented in 1883. Made By Coderable",
+      "feat": "In 3D"
     }
   },
   {
